@@ -2,7 +2,7 @@
 
 # Hieu Thai's GitHub Profile
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=800&size=25&duration=3000&pause=1000&color=F77C00&background=79797900&center=true&multiline=true&random=false&width=500&height=150&lines=Software+engineer+specializing+in+DevOps;I+break+things+in+prod;+so+I+can+fix+them+with+TDD,+Clean+Architecture,+and+a+dash+of+DDD" alt=""></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=800&size=25&duration=3000&pause=1000&color=F77C00&background=79797900&center=true&multiline=true&random=false&width=500&height=150&lines=Software+engineer+specializing+in+DevOps;I+break+things+in+prod;+so+I+can+fix+them;with+TDD,+Clean+Architecture,+and+a+dash+of+DDD" alt=""></a>
 
 
 ## Connect with me
