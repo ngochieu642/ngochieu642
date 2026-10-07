@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: billtruong003/git-profile-awaken@main
+      - uses: ngochieu642/git-profile-awaken@main
         with:
           # Optional: a fine-grained token with read access adds private contributions.
           token: ${{ secrets.AWAKEN_TOKEN || github.token }}
