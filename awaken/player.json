@@ -1,8 +1,8 @@
 {
   "login": "ngochieu642",
-  "level": 15,
+  "level": 33,
   "overall": "SS",
-  "overallPercentile": 0.9836816785831225,
+  "overallPercentile": 0.9914165855653675,
   "layout": "default",
   "class": {
     "name": "Necromancer",
@@ -19,15 +19,15 @@
     },
     {
       "code": "AGI",
-      "value": 114,
-      "rank": "SS",
-      "percentile": 0.988495818317091
+      "value": 2179,
+      "rank": "EX",
+      "percentile": 0.9999920577424388
     },
     {
       "code": "INT",
-      "value": 10,
+      "value": 11,
       "rank": "A",
-      "percentile": 0.9042569922014828
+      "percentile": 0.9106396626775066
     },
     {
       "code": "VIT",
@@ -48,22 +48,51 @@
       "percentile": 0.9428804235570403
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "level",
+      "subject": "Level",
+      "from": "15",
+      "to": "33",
+      "at": "2026-10-07T23:10:18.427Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "SS",
+      "to": "EX",
+      "at": "2026-10-07T23:10:18.427Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "pull-shark",
+      "from": "2",
+      "to": "3",
+      "at": "2026-10-07T23:10:18.427Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "polyglot",
+      "from": "0",
+      "to": "2",
+      "at": "2026-10-07T23:10:18.427Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
-      "tier": 2,
-      "value": 105
+      "tier": 3,
+      "value": 2115
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 61
+      "value": 77
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 55
+      "value": 91
     },
     {
       "id": "relentless",
@@ -73,7 +102,7 @@
     {
       "id": "unbroken",
       "tier": 1,
-      "value": 18
+      "value": 19
     },
     {
       "id": "night-owl",
@@ -98,12 +127,12 @@
     {
       "id": "raider",
       "tier": 3,
-      "value": 57
+      "value": 100
     },
     {
       "id": "flawless",
       "tier": 2,
-      "value": 92
+      "value": 97
     },
     {
       "id": "healer",
@@ -112,8 +141,8 @@
     },
     {
       "id": "polyglot",
-      "tier": 0,
-      "value": 2
+      "tier": 2,
+      "value": 7
     },
     {
       "id": "star-collector",
@@ -143,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 3,
-      "value": 303
+      "value": 304
     },
     {
       "id": "daily-grinder",
@@ -196,5 +225,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-07T23:08:33.150Z"
+  "syncedAt": "2026-10-07T23:10:18.427Z"
 }
