@@ -32,4 +32,4 @@ jobs:
       - uses: ngochieu642/git-profile-awaken@main
         with:
           # Optional: a fine-grained token with read access adds private contributions.
-          token: ${{ steps.app-token.outputs.token || secrets.AWAKEN_TOKEN || github.token }}
+          token: ${{ secrets.AWAKEN_TOKEN || steps.app-token.outputs.token || github.token }}
