@@ -65,7 +65,7 @@
 <path d="M582.4 65H623V89.6L617.6 95H577V70.4Z" fill="none" stroke="#f2fbff" stroke-width="2"/><path d="M583.5 68.5H619.5V88.5L616.5 91.5H580.5V71.5Z" fill="none" stroke="#f2fbff" stroke-width="1"/>
 <text x="600" y="87.2" class="rank" fill="#f2fbff" text-anchor="middle">EX</text>
 <clipPath id="fs3"><path d="M582 64H624V90L618 96H576V70Z"/></clipPath><g clip-path="url(#fs3)"><rect class="shine" x="554.4" y="64" width="21.6" height="32" fill="url(#shine)" style="animation-duration:2.4s"/></g><path class="spark" d="M581.8 58.6L584.6 61.4L581.8 64.2L579.0 61.4Z" fill="#f2fbff" style="animation-delay:0s"/><path class="spark" d="M620.2 67.0L623.0 69.8L620.2 72.6L617.4 69.8Z" fill="#f2fbff" style="animation-delay:0.6s"/><path class="spark" d="M579.8 88.7L582.6 91.5L579.8 94.3L577.0 91.5Z" fill="#f2fbff" style="animation-delay:1.2s"/><path class="spark" d="M613.4 93.8L616.2 96.6L613.4 99.4L610.6 96.6Z" fill="#f2fbff" style="animation-delay:1.8s"/>
-</g><text x="634" y="70" class="label" fill="#8a9bc0">AGI</text><text x="634" y="88" class="value" fill="#e6edf7">2,181</text><text x="634" y="103" class="code" fill="#8a9bc0">TOP 0.01%</text>
+</g><text x="634" y="70" class="label" fill="#8a9bc0">AGI</text><text x="634" y="88" class="value" fill="#e6edf7">2,184</text><text x="634" y="103" class="code" fill="#8a9bc0">TOP 0.01%</text>
 <g>
 <g class="fx-a" filter="url(#fx-blur)" opacity="0.75"><path d="M706.4 65H747V89.6L741.6 95H701V70.4Z" fill="none" stroke="#d77bff" stroke-width="3"/></g>
 <path d="M706 64H748V90L742 96H700V70Z" fill="#060a14"/>
@@ -94,5 +94,5 @@
 <text x="724" y="151.2" class="rank" fill="#ffc53d" text-anchor="middle">S</text>
 
 </g><text x="758" y="134" class="label" fill="#8a9bc0">CHA</text><text x="758" y="152" class="value" fill="#e6edf7">17</text><text x="758" y="167" class="code" fill="#8a9bc0">TOP 5.7%</text>
-<text x="820" y="226" class="code" fill="#8a9bc0" text-anchor="end">@ngochieu642 · SYNCED 2026-10-08</text>
+<text x="820" y="226" class="code" fill="#8a9bc0" text-anchor="end">@ngochieu642 · SYNCED 2026-10-09</text>
 </svg>

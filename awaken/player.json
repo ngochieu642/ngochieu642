@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 2181,
+      "value": 2184,
       "rank": "EX",
-      "percentile": 0.9999920813733654
+      "percentile": 0.999992116654308
     },
     {
       "code": "INT",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-09T21:36:22.307Z"
+    },
     {
       "kind": "level",
       "subject": "Level",
@@ -82,12 +89,12 @@
     {
       "id": "pull-shark",
       "tier": 3,
-      "value": 2117
+      "value": 2119
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 78
+      "value": 76
     },
     {
       "id": "yolo",
@@ -102,7 +109,7 @@
     {
       "id": "unbroken",
       "tier": 1,
-      "value": 19
+      "value": 20
     },
     {
       "id": "night-owl",
@@ -172,7 +179,7 @@
     {
       "id": "diligent",
       "tier": 3,
-      "value": 304
+      "value": 305
     },
     {
       "id": "daily-grinder",
@@ -187,12 +194,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 5
+      "value": 6
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -208,6 +215,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-08",
+        "cleared": 1,
+        "total": 3
+      },
+      {
         "date": "2026-10-07",
         "cleared": 2,
         "total": 3
@@ -221,8 +233,10 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 5,
-    "bosses": [],
+    "questsDone": 6,
+    "bosses": [
+      "2026-10-05"
+    ],
     "escapes": 0,
     "kinds": [
       "contribute",
@@ -230,5 +244,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-08T22:00:14.075Z"
+  "syncedAt": "2026-10-09T21:36:22.307Z"
 }
