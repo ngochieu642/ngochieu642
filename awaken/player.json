@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 2184,
+      "value": 2185,
       "rank": "EX",
-      "percentile": 0.999992116654308
+      "percentile": 0.9999921283707026
     },
     {
       "code": "INT",
@@ -49,6 +49,20 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "diligent",
+      "from": "2",
+      "to": "3",
+      "at": "2026-10-12T23:35:18.841Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-12T23:35:18.841Z"
+    },
     {
       "kind": "achievement",
       "subject": "boss-slayer",
@@ -89,7 +103,7 @@
     {
       "id": "pull-shark",
       "tier": 3,
-      "value": 2119
+      "value": 2120
     },
     {
       "id": "quickdraw",
@@ -178,8 +192,8 @@
     },
     {
       "id": "diligent",
-      "tier": 2,
-      "value": 298
+      "tier": 3,
+      "value": 300
     },
     {
       "id": "daily-grinder",
@@ -194,7 +208,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 7
+      "value": 9
     },
     {
       "id": "boss-slayer",
@@ -204,16 +218,21 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 3
+      "tier": 1,
+      "value": 4
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-11",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-10",
         "cleared": 0,
@@ -243,16 +262,17 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 7,
+    "questsDone": 9,
     "bosses": [
       "2026-10-05"
     ],
-    "escapes": 0,
+    "escapes": 1,
     "kinds": [
       "contribute",
       "three",
-      "average"
+      "average",
+      "mp"
     ]
   },
-  "syncedAt": "2026-10-11T20:55:08.386Z"
+  "syncedAt": "2026-10-12T23:35:18.841Z"
 }
