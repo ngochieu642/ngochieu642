@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 2185,
+      "value": 2187,
       "rank": "EX",
-      "percentile": 0.9999921283707026
+      "percentile": 0.9999921517379098
     },
     {
       "code": "INT",
@@ -103,12 +103,12 @@
     {
       "id": "pull-shark",
       "tier": 3,
-      "value": 2120
+      "value": 2122
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 76
+      "value": 77
     },
     {
       "id": "yolo",
@@ -193,7 +193,7 @@
     {
       "id": "diligent",
       "tier": 3,
-      "value": 300
+      "value": 301
     },
     {
       "id": "daily-grinder",
@@ -208,7 +208,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 9
+      "value": 10
     },
     {
       "id": "boss-slayer",
@@ -228,6 +228,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-12",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-11",
         "cleared": 2,
@@ -262,7 +267,7 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 9,
+    "questsDone": 10,
     "bosses": [
       "2026-10-05"
     ],
@@ -274,5 +279,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-12T23:35:18.841Z"
+  "syncedAt": "2026-10-13T21:48:04.627Z"
 }
