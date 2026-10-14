@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 2187,
+      "value": 2191,
       "rank": "EX",
-      "percentile": 0.9999921517379098
+      "percentile": 0.9999921982113773
     },
     {
       "code": "INT",
@@ -103,17 +103,17 @@
     {
       "id": "pull-shark",
       "tier": 3,
-      "value": 2122
+      "value": 2135
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 77
+      "value": 68
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 91
+      "value": 83
     },
     {
       "id": "relentless",
@@ -193,12 +193,12 @@
     {
       "id": "diligent",
       "tier": 3,
-      "value": 301
+      "value": 302
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
@@ -208,7 +208,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 10
+      "value": 13
     },
     {
       "id": "boss-slayer",
@@ -223,11 +223,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 4
+      "value": 5
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-13",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-12",
         "cleared": 1,
@@ -264,10 +269,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 1,
-    "run": 0,
+    "perfectDays": 2,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 10,
+    "questsDone": 13,
     "bosses": [
       "2026-10-05"
     ],
@@ -276,8 +281,9 @@
       "contribute",
       "three",
       "average",
-      "mp"
+      "mp",
+      "streak"
     ]
   },
-  "syncedAt": "2026-10-13T21:48:04.627Z"
+  "syncedAt": "2026-10-14T20:36:30.053Z"
 }
